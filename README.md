@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sakai
-- 👀 I’m currently learining python
-- 🌱 I’m interested on learning other languages
+- 👀 16 y/o
+- 🌱 I’m currently learing Python, but i'm also interested on learning other languages in the future
 - 📫 Reach me on discord: sakai.
 
 
